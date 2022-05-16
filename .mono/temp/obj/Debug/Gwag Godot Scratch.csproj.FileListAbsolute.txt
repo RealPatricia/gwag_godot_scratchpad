@@ -1,0 +1,8 @@
+/Users/patty/Projects/gwag_godot_scratch/.mono/temp/bin/Debug/Gwag Godot Scratch.dll
+/Users/patty/Projects/gwag_godot_scratch/.mono/temp/bin/Debug/Gwag Godot Scratch.pdb
+/Users/patty/Projects/gwag_godot_scratch/.mono/temp/obj/Debug/Gwag Godot Scratch.csprojAssemblyReference.cache
+/Users/patty/Projects/gwag_godot_scratch/.mono/temp/obj/Debug/Gwag Godot Scratch.AssemblyInfoInputs.cache
+/Users/patty/Projects/gwag_godot_scratch/.mono/temp/obj/Debug/Gwag Godot Scratch.AssemblyInfo.cs
+/Users/patty/Projects/gwag_godot_scratch/.mono/temp/obj/Debug/Gwag Godot Scratch.csproj.CoreCompileInputs.cache
+/Users/patty/Projects/gwag_godot_scratch/.mono/temp/obj/Debug/Gwag Godot Scratch.dll
+/Users/patty/Projects/gwag_godot_scratch/.mono/temp/obj/Debug/Gwag Godot Scratch.pdb
