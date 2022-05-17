@@ -3,8 +3,13 @@ using System;
 
 public abstract class Actor : KinematicBody
 {
-	public override void _Ready()
-	{
-		GD.Print("If you can see this, This is an Actor, or a class that inherits from Actor!");
-	}
+	[Export]
+	protected float _speed = 8.0f;
+	[Export]
+	protected float _jumpStrength = 50.0f;
+	[Export]
+	protected float _gravity = 20.0f;
+	
+	protected Vector3 _velocity = Vector3.Zero;
+	protected Vector3 _snapVector = Vector3.Down;
 }
